@@ -1,0 +1,14 @@
+{
+  "$schema": "https://app.kilo.ai/config.json",
+  "mcp": {
+    "code-review-graph": {
+      "type": "local",
+      "command": ["uvx", "code-review-graph", "serve"],
+      "enabled": true,
+      "timeout": 120000
+    }
+  },
+  "permission": {
+    "code-review-graph_*": "allow"
+  }
+}

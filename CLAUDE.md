@@ -72,3 +72,8 @@ Fall back to Grep/Glob/Read **only** when the graph doesn't cover what you need.
 ```
 
 **Files touched:** `server.js` only (2 additions + 1 route block).
+
+## Decisions Made
+
+- 2026-04-19: /health endpoint implemented and tested
+- 2026-04-19: /health2 endpoint implemented and tested

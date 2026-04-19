@@ -77,6 +77,7 @@ Fall back to Grep/Glob/Read **only** when the graph doesn't cover what you need.
 
 - 2026-04-19: /health endpoint implemented and tested
 - 2026-04-19: /health2 endpoint implemented and tested
+- 2026-04-19: storage.js + tests implemented — 6/6 tests passing
 
 ---
 

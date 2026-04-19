@@ -74,10 +74,12 @@ Fall back to Grep/Glob/Read **only** when the graph doesn't cover what you need.
 **Files touched:** `server.js` only (2 additions + 1 route block).
 
 ## Decisions Made
-
+ 
 - 2026-04-19: /health endpoint implemented and tested
 - 2026-04-19: /health2 endpoint implemented and tested
 - 2026-04-19: storage.js + tests implemented — 6/6 tests passing
+- 2026-04-19: URL shortener feature implemented — lib/storage.js, lib/shortener.js, lib/rateLimit.js, lib/validate.js, routes/shorten.js, test/shortener.test.js — tests passing 15/15
+
 
 ---
 

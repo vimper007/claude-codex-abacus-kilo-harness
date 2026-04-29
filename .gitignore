@@ -17,7 +17,7 @@ package-lock.json.backup
 dist/
 build/
 *.tsbuildinfo
-
+ 
 # Editor
 .vscode/*
 !.vscode/settings.json
